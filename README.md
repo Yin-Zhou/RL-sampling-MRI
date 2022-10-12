@@ -23,3 +23,4 @@ conda install -y pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
 ```
 After you installed Pytorch, check if it works by running `python`, then `import torch` in the python interpreter. 
 If Pytorch works, then either run `quit()` or Ctrl + D to exit the python interpreter. 
+Install any other packages you need using similar conda commands.
